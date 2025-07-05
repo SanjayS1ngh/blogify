@@ -1,0 +1,1 @@
+A full-featured blog application built with Node.js, Express, and MongoDB. This project allows users to create, read, update, and delete blog posts. It serves as a practical demonstration of building a full CRUD (Create, Read, Update, Delete) application with server-side rendering using EJS.
